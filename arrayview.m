@@ -1,6 +1,8 @@
 function [ h ] = arrayview(data)
 %arrayview - simple array viewer for 3d data
 %
+complete
+
 %      usage: [ h ] = arrayview( data )
 %         by: ds1
 %       date: 2018-11. set up for 2018/19 assignment
